@@ -8,7 +8,7 @@ Core Competencies include: Data Viz, SQL, Product Management, Design.
 - 🌱 I’m currently learning Data Engineering principles to bolster my skills.
 - 🤔 I’m looking for helpful tips with Unity and C#.
 - 💬 Ask me about my favorite spots to check out local food around PDX!
-- ⚡ Fun fact: I have a PhD.
+- ⚡ Fun fact: I have a PhD!
 
 Linkedin: https://www.linkedin.com/in/ehowhchen/
 
