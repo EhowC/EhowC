@@ -1,6 +1,8 @@
 Hi there, my name is Ehow!
 
-I have been working in science and analytics for more than a decade across multiple industries, including pharmaceuticals, retail, gaming, and education. I am currently the **Insights & Analytics Lead** at Captain.tv, as well as the **Lead Designer** of our latest title, [Arena Kingdoms](https://arenakingdoms.com/)! I leverage my skills in the analytics and apply my experience and love for games to create a balanced and fun experience for my player base.
+I have been working in science and analytics for more than a decade across multiple industries, including pharmaceuticals, retail, gaming, and education.
+
+I am currently the **Insights & Analytics Lead** at Captain.tv, as well as the **Lead Designer** of our latest title, [Arena Kingdoms](https://arenakingdoms.com/)! I leverage my skills in the analytics and apply my experience and love for games to create a balanced and fun experience for my player base.
 
 Core Competencies include: Data Viz, SQL, Product Management, Design
 
